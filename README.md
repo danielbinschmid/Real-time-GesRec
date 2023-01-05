@@ -1,4 +1,7 @@
 # Real-time Hand Gesture Recognition with 3D CNNs
+Forked from [Real-time-GesRec](https://github.com/ahmetgunduz/Real-time-GesRec).
+
+
 PyTorch implementation of the article [Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks](https://arxiv.org/abs/1901.10323) and [Resource Efficient 3D Convolutional Neural Networks](https://arxiv.org/pdf/1904.02422.pdf), codes and pretrained models.
 
 
